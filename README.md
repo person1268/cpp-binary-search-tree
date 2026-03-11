@@ -11,3 +11,9 @@ The project includes:
 - Height and node counting
 - Tree sort
 - Automated testing with the doctest framework
+
+## Authorship
+
+The Binary Tree, Binary Search Tree, traversal logic, removal logic, and unit tests are my coursework implementation.
+
+The file `doctest.h` is an external open-source testing framework dependency and is not my original code.
