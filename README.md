@@ -76,9 +76,7 @@ After running the program, all test cases should pass successfully.
 
 Example:
 
-```text
-[doctest] test cases: all passed
-```
+![Program Output](screenshot.png)
 
 ---
 
