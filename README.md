@@ -1,33 +1,13 @@
-# C++ Binary Search Tree
+# C++ Binary Trees and Binary Search Trees
 
-A C++ project implementing a Binary Tree and Binary Search Tree using class-based design and composition.
+This project implements a Binary Tree and Binary Search Tree in C++ using templates, smart pointers, recursion, and automated unit tests.
 
-## Features
+The project includes:
 
-- Binary tree node structure
-- Binary Search Tree insertion
-- Search for values in the tree
-- Tree traversals
-- Class-based C++ design
-- Header/source file separation
-
-## Concepts Demonstrated
-
-- Object-oriented programming in C++
-- Dynamic memory and pointers
-- Recursive algorithms
-- Tree traversal
-- Binary Search Tree logic
-- Composition-based design
-
-## Project Structure
-
-```text
-cpp-binary-search-tree
-│
-├── main.cpp
-├── main.h
-├── binarytree.h
-├── binarytree.cpp
-├── bst.h
-└── bst.cpp
+- Binary tree operations
+- Binary search tree operations
+- Traversal algorithms
+- Node insertion and removal
+- Height and node counting
+- Tree sort
+- Automated testing with the doctest framework
